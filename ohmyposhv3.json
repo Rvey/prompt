@@ -69,7 +69,7 @@
                   "powerline_symbol": "",
                   "invert_powerline": false,
                   "foreground": "#ffffff",
-                  "background": "#2e9599",
+                  "background": "#30b3f0",
                   "leading_diamond": "",
                   "trailing_diamond": "",
                   "properties": {
@@ -77,7 +77,7 @@
                       "color_background": true,
                       "display_exit_code": false,
                       "error_color": "#f1184c",
-                      "prefix": " "
+                      "prefix": " 🚀"
                   }
               }
           ]
