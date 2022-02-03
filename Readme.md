@@ -37,7 +37,7 @@ Import-Module -Name Terminal-Icons
 ```
 ## install ps prediction 
 ```
-Install-Module PSReadLine -RequiredVersion 2.2.0-beta1 -AllowPrerelease
+Install-Module PSReadLine -AllowPrerelease -Force
 ```
 ## enable it 
 ```
