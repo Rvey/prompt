@@ -26,7 +26,7 @@ https://gist.github.com/shanselman/1f69b28bfcc4f7716e49eb5bb34d7b2c?WT.mc_id=-bl
 ```
 put it in the theme directory folder
 ## change the default theme 
-Microsoft.PowerShell_profile.ps1 
+in the Microsoft.PowerShell_profile.ps1 add
 ```
 oh-my-posh --init --shell pwsh --config C:\Users\rredo\Documents\GitHub\prompt\ohmyposhv3.json | Invoke-Expression
 ```
